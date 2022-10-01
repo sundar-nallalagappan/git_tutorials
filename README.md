@@ -24,9 +24,10 @@ git branch --> shows the branch
 
 git branch -M main --> To rename my main branch from Master to main (both names should be same)
 
+<For the first time commit only>
 git remote add origin https://github.com/sundar-nallalagappan/git_tutorials.git
-
 git remote -v --> check for fetch & pull branch
+</>
 
 git push -u origin main  ==> Push the changes to git
 
