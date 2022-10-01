@@ -36,6 +36,8 @@ git branch developer1 --> to create a new branch called developer1 (copy of main
 
 git checkout developer1 --> to swicth to branch
 
+from main branch ==> git merge developer1 (to merge the changes from branch to main)
+
 
 
 
