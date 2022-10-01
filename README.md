@@ -15,4 +15,19 @@ git status - to check the untracked files
 
 git add README.md - git will start tracking this file
 git add .         - to track all the untracked files
+
+
+git commit -m "comments"  --> move the tracked files to staging environment
+
+
+git branch --> shows the branch
+
+git branch -M main --> To rename my main branch from Master to main (both names should be same)
+
+git remote add origin https://github.com/sundar-nallalagappan/git_tutorials.git
+
+git remote -v --> check for fetch & pull branch
+
+git push -u origin main  ==> Push the changes to git
+
  
