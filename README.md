@@ -31,4 +31,13 @@ git remote -v --> check for fetch & pull branch
 
 git push -u origin main  ==> Push the changes to git
 
+# To create new branch
+git branch developer1 --> to create a new branch called developer1 (copy of main)
+
+git checkout developer1 --> to swicth to branch
+
+
+
+
 ####### 
+
