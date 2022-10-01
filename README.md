@@ -38,7 +38,10 @@ git checkout developer1 --> to swicth to branch
 
 from main branch ==> git merge developer1 (to merge the changes from branch to main)
 
+git log
+git log -p
 
+git branch -d developer1 - to delete the branch
 
 
 ####### 
